@@ -4,6 +4,8 @@
 @author: Samip
 """
 
+#Rating file is too large. You can download the ratings file from here: https://www.kaggle.com/CooperUnion/anime-recommendations-database#rating.csv
+
 """It gives recommendation of your favorite Anime based on anime you selected. 
 The recommendation is done based on total rating counts, average rating counts, genre and finally the genre of selected Anime.
 More the value of corellation, more chances of getting them as recommendation."""
